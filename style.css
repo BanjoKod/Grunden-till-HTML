@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Michroma&display=swap');
+
+body {
+    background-color: #ff1c1c;
+    font-family: 'michroma';
+    color: #228b22;
+    display: flex;
+    justify-content: center; /*centrerar vågrätt*/
+    align-items: center; /*centreral lodrätt*/
+    min-height: 100vh;
+}
+
+h1 {
+    font-size: 2.5rem;
+    color: #f91616;
+}
+
+h2 {
+    font-size: 1.5rem;
+    color: #ffea00;
+}
+
+p {
+    font-size: 1rem;
+   line-height: 1.7;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.card {
+    background-color: white;
+    padding: 2rem;
+    border-radius: 12px;
+    max-width: 600px;
+}

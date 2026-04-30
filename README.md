@@ -1,3 +1,4 @@
+Dag 1
 Första riktiga lektionen, vi går igenom olika HTML-taggar.
 
 Vi skriver en text/ tidningsrubrik + underrubrik om "Karin" som byter spår i livet.
@@ -12,6 +13,18 @@ Lägger in möjlighet att öppna ny sida som ny flik istället för att hoppa ö
 
 Lägger in bild + "alt-text" till den.
 Lägger också in listor (li) samt ordnar dessa genom att använda oss av antingen ul eller ol
+
+     ------------------||------------------
+
+Dag 2
+Går igenom CSS
+
+Lägger till olika storlekar och färger på texten, även färg på bakgrund
+
+Lägger in ny font för texten
+
+
+
 
 karin.html - genomgång under lektionen
 index.html - det jag gör själv efter genomgångarna
